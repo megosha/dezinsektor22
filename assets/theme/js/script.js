@@ -211,7 +211,7 @@
                     $(card).outerFind('.mbr-parallax-background')
                         .jarallax({
                             speed: 0.6,
-                            imgPosition: "100% 50%"
+							imgPosition: "100% 50%"
                         })
                         .css('position', 'relative');
                 }, 0);

@@ -1388,9 +1388,14 @@ section.lazy-placeholder:after {
 .cid-s0PEz9giB0 {
   background-image: url("../../../assets/images/chelyabinsk-v-sentyabre-povtorno-obrabotayut-ot-kleshchey-3-1536x864.jpeg");
 }
+@media (max-width: 771px) {
+  .cid-s0PEz9giB0 H1 {
+    padding-top: 3rem;
+  }
+}
 @media (max-width: 575px) {
   .cid-s0PEz9giB0 H1 {
-    padding-top: 4rem;
+    padding-top: 2rem;
   }
 }
 .cid-s0PEz9giB0 H1 {
