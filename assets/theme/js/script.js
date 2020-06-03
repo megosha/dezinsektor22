@@ -220,8 +220,8 @@
             function destroyParallax(card) {
                 $(card).jarallax('destroy').css('position', '');
             }
-
-            if ($.fn.jarallax && !$.isMobile()) {
+//  && !$.isMobile()
+            if ($.fn.jarallax) {
                 $(window).on('update.parallax', function(event) {
                     setTimeout(function() {
                         var $jarallax = $('.mbr-parallax-background');
