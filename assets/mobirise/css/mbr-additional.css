@@ -1387,6 +1387,7 @@ section.lazy-placeholder:after {
 }
 .cid-s0PEz9giB0 {
   background-image: url("../../../assets/images/chelyabinsk-v-sentyabre-povtorno-obrabotayut-ot-kleshchey-3-1536x864.jpeg");
+  background-position-x: right;
 }
 @media (max-width: 771px) {
   .cid-s0PEz9giB0 H1 {
@@ -1395,7 +1396,12 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 575px) {
   .cid-s0PEz9giB0 H1 {
-    padding-top: 2rem;
+    padding-top: 4rem;
+    text-align: center !important;
+  }
+  .cid-s0PEz9giB0 .mbr-text,
+  .cid-s0PEz9giB0 .mbr-section-btn {
+    text-align: center !important;
   }
 }
 .cid-s0PEz9giB0 H1 {
