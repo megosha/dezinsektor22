@@ -48,7 +48,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicon.png",
     "imageResize": false,
     "cssOptimize": true,
-    "lazyLoad": true,
+    "lazyLoad": false,
     "lazyType": "nothing",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
