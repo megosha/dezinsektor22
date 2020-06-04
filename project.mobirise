@@ -47,23 +47,24 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.png",
     "imageResize": false,
-    "cssOptimize": false,
-    "lazyLoad": false,
+    "cssOptimize": true,
+    "lazyLoad": true,
     "lazyType": "nothing",
-    "robotsSwitcher": false,
+    "robotsSwitcher": true,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "ДЕЗслужба Лето без комаров",
-        "meta_descr": "",
-        "header_custom": "",
+        "meta_descr": "Избавим вашу территорию от клещей, клопов, вредителей, неприятных запахов и вирусов",
+        "header_custom": "<meta name=\"description\" content=\"Избавим вашу территорию от клещей, клопов, вредителей, неприятных запахов и вирусов\">\n<meta name=\"Keywords\" content=\"дезинсекция в Барнауле,   дезинфекция в Барнауле,  от клещей, от клопов, от вредителей, от неприятных запахов, дезслужба\"> ",
         "footer_custom": "",
         "html_before": ""
       },
