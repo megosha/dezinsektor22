@@ -1386,7 +1386,8 @@ section.lazy-placeholder:after {
   color: #0f9927;
 }
 .cid-s0PEz9giB0 {
-  background-image: url("../../../assets/images/chelyabinsk-v-sentyabre-povtorno-obrabotayut-ot-kleshchey-3-1536x864.jpeg");
+  /*background-image: url("../../../assets/images/chelyabinsk-v-sentyabre-povtorno-obrabotayut-ot-kleshchey-3-1536x864.jpeg");*/
+  background-image: url("../../../assets/images/covid-19-5010565_1920.jpg");
   background-position-x: right;
 }
 @media (max-width: 771px) {
