@@ -7,6 +7,9 @@
 body {
   font-family: Rubik;
 }
+.shadowed_text{
+  text-shadow: 1px 1px 2px black, 0 0 1em black;
+}
 .display-1 {
   font-family: 'Rubik', sans-serif;
   font-size: 3.6rem;
@@ -1386,7 +1389,8 @@ section.lazy-placeholder:after {
   color: #0f9927;
 }
 .cid-s0PEz9giB0 {
-  background-image: url("../../../assets/images/chelyabinsk-v-sentyabre-povtorno-obrabotayut-ot-kleshchey-3-1536x864.jpeg");
+  /*background-image: url("../../../assets/images/chelyabinsk-v-sentyabre-povtorno-obrabotayut-ot-kleshchey-3-1536x864.jpeg");*/
+  background-image: url("../../../assets/images/covid-19-5010565_1920.jpg");
   background-position-x: right;
 }
 @media (max-width: 771px) {
@@ -1859,6 +1863,9 @@ section.lazy-placeholder:after {
   padding-top: 30px;
   padding-bottom: 60px;
   background-color: #ffffff;
+}
+.cid-s0PEvqLcwB .form-block{
+  padding-top: 4rem;
 }
 .cid-s0PEvqLcwB *:focus {
   outline: none;
